@@ -8,4 +8,4 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 Obtained results after 8600 and 9800 epochs are shown below:
 
-<img src=./img/Result_8600.png height="200"><img src=./img/Result_9800.png height="200">
+<img src=./img/Result_8600.PNG><img src=./img/Result_9800.PNG>
