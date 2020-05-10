@@ -1,4 +1,4 @@
-In this project, i have created a MNNIST digit generator model. where generator is trained to create image of MNIST digits. 
+In this project, I have created a MNNIST digit generator model. where generator is trained to create image of MNIST digits. 
 
 #### What are GANS? 
 Generative adversarial networks (GANs) are an exciting recent innovation in machine learning. GANs are generative models: they create new data instances that resemble your training data. For example, GANs can create images that look like photographs of human faces, even though the faces don't belong to any real person. These images were created by a GAN:
