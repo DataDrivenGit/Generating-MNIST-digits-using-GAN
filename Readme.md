@@ -6,3 +6,5 @@ Generative adversarial networks (GANs) are an exciting recent innovation in mach
 #### how it works ?
 GANs achieve this level of realism by pairing a generator, which learns to produce the target output, with a discriminator, which learns to distinguish true data from the output of the generator. The generator tries to fool the discriminator, and the discriminator tries to keep from being fooled.
 
+Obtained results after 8600 and 9800 epochs are shown below:
+<img src=img/Result_8600.png width="200" height="200"><img src=img/Result_9800.png width="200" height="200">
